@@ -10,7 +10,6 @@ public class Main {
         double dbl = 3.145;
         y = 4;
         System.out.println("Hello Class");
-        System.out.print("Hello Class");
         System.out.println(x);
         System.out.println(y);
         System.out.println(dbl);
